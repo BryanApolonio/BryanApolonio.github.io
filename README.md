@@ -3,7 +3,7 @@
 A simple, brutalist personal website.
 
 <p align="center">
-  <img src="./assets/img/preview.png" width="98%" />
+  <img src="./assets/img/preview.png" />
 </p>
 
 ## Overview
